@@ -20,7 +20,7 @@ To set up and run DOQA on your local machine, follow these steps:
 ### Installation Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/doqa.git
+    git clone https://github.com/wissalmezghiche/doqa.git
     cd doqa
     ```
 
